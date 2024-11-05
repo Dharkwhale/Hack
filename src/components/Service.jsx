@@ -19,7 +19,7 @@ const Service = () => {
         <h2 class='text-sm text-left'>Service 2</h2>
         <p class='text-xl text-[#95FF80] text-left'>Asset Management</p>
         <p class='text-sm text-left'>
-        Grow your assets by participating in staking opportunities. Our streamlined staking process allows you to easily stake tokens and earn rewards without complicated setups. Simply connect your wallet, choose from a variety of staking options, and start earning passive income. Plus, real-time tracking helps you monitor your rewards.
+        Grow your assets by participating in staking opportunities. Our streamlined staking process allows you to easily stake token(s) and earn rewards without complicated setups. Simply connect your wallet, choose from a variety of staking options, and start earning passive income. Plus, real-time tracking helps you monitor your rewards.
 
         </p>
         </div>
