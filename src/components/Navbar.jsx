@@ -30,7 +30,12 @@ const Navbar = () => {
       <button  onClick={handleSignInClick} class='bg-[#1e9400] W-[250px] rounded-md font-small py-2 px-4 text-[#000000] hidden md:block'><Link to='/Sign in'></Link>Sign In</button>
     </div>  
     <div onClick= {handleNav} class= 'block md:hidden'>
-      {!nav ? <AiOutlineClose size= {20}/> : <AiOutlineMenu size= {20}/>}
+      {!nav ? 
+       (<AiOutlineMenu size= {20}/>)
+       : 
+       (<AiOutlineClose size= {20}/>)
+      
+       }
       
     </div>
     <div class={nav ? 'fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-[#000000] easy-in-out duration-500 md:hidden' : 'fixed left-[-100%]'}>
