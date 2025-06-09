@@ -22,7 +22,7 @@ const Newsletter = () => {
             easy and cost-effective. I love how transparent the fees are, and
             the transactions are super fast.
           </h2>
-          <p className="text-sm md:text-left text-center">David Richards</p>
+          <p className="text-sm md:text-left text-center">David Oloyede</p>
           <p className="text-sm md:text-left text-center">Freelance digital entrepreneur</p>
           <div
             class="flex gap-5 md:items-start justify-center items-center md:justify-start"
