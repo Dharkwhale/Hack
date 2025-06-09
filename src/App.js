@@ -4,7 +4,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Service from './components/Service';
 import Steps from './components/Steps';
-import Newsletter from './components/Newsletter';
+import Newsletters from './components/Newsletters';
 import Footer from './components/Footer';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       <About />
       <Steps />
       <Service />
-      <Newsletter />
+      <Newsletters />
       <Footer/>
       
     </div>
